@@ -1,4 +1,4 @@
-/* Visual do Luna Path: lilás, roxo e rosa suave. */
+/* Visual do Luna Pads: lilás, roxo e rosa suave. */
 :root { --bg:#faf7ff; --text:#1d1828; --muted:#625a73; --brand:#7c4ddb; --accent:#e85a8e; }
 @media (prefers-color-scheme: dark) { :root { --bg:#131019; --text:#eee9f7; --muted:#b0a7c2; --brand:#c4a8ff; --accent:#ff9ec0; } }
 * { box-sizing: border-box; }
